@@ -1,0 +1,21 @@
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Model checkpoints
+checkpoint/
+*.pth
+*.pt
+
+# Local datasets
+data/
+
+# Secrets
+.env
